@@ -1,0 +1,16 @@
+PODS:
+  - MyApp (0.1.0)
+
+DEPENDENCIES:
+  - MyApp (from `../`)
+
+EXTERNAL SOURCES:
+  MyApp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyApp: ce9a40c4ef67e632a69060abb4b041b1841a9ed8
+
+PODFILE CHECKSUM: be26808f7ef1e8dc398b42a52f2a4c471390015a
+
+COCOAPODS: 1.15.2
