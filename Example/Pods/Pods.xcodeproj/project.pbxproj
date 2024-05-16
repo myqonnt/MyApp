@@ -35,27 +35,27 @@
 		2ED0CBA518C5D8ADB06BEDC252FB623D /* MyApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyApp-dummy.m"; sourceTree = "<group>"; };
 		3BBD7A7B09303994FDB1F758349AECAE /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MyApp/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		4A813AEA2DA67D766CAF4F8F8BF207AA /* MyApp-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyApp-Info.plist"; sourceTree = "<group>"; };
-		4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods-MyApp_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyApp_Tests"; path = Pods_MyApp_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods_MyApp_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyApp_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D945534392BF2267C29F65F /* Pods-Pods-MyApp_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-MyApp_Tests.release.xcconfig"; path = "Target Support Files/Pods-Pods-MyApp_Tests/Pods-Pods-MyApp_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		62078BBBFE899211250BDBA7 /* Pods-MyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyApp.release.xcconfig"; path = "Target Support Files/Pods-MyApp/Pods-MyApp.release.xcconfig"; sourceTree = "<group>"; };
 		6C879442EA5C488EB5C3DA860358540B /* Pods-MyApp_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyApp_Tests-umbrella.h"; sourceTree = "<group>"; };
 		7146816F4F197D655D57C10D613AB1AB /* Pods-MyApp_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyApp_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		78DBACF0C746070262079834CFF86A27 /* Pods-MyApp_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyApp_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		78F068957B315B3C074C582FBB721A30 /* MyApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyApp-umbrella.h"; sourceTree = "<group>"; };
-		7EA7D1D2AE0BA567FE3657150F01F427 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		857C065C3DA567932EF16AE206BF0A7B /* MyApp */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyApp; path = MyApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EA7D1D2AE0BA567FE3657150F01F427 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		857C065C3DA567932EF16AE206BF0A7B /* MyApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FA8855F9D8F5EEC0B037E9C56EA93D9 /* Pods-MyApp_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyApp_Tests.modulemap"; sourceTree = "<group>"; };
 		9257CCD3673F07AFC5AA02949790BDE2 /* MyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyApp.debug.xcconfig; sourceTree = "<group>"; };
 		9720D2507CDF952A645D1E12 /* Pods_MyApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		97F83204AE74768A4199D13E /* Pods_Pods_MyApp_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pods_MyApp_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A09CF97E54BE0CE5CA0894716DA1A286 /* Pods-MyApp_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyApp_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B7DF5F1780239B2A7F40F1FA87F48852 /* Pods-MyApp_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyApp_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C1430F003D39D9906881A6AC724B7931 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		CB6ECD41CD9E47C7C09CAB03 /* Pods-MyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyApp.debug.xcconfig"; path = "Target Support Files/Pods-MyApp/Pods-MyApp.debug.xcconfig"; sourceTree = "<group>"; };
-		DC33931BB4F39B569DA9563FF0673461 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DC33931BB4F39B569DA9563FF0673461 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DEFE4E756086AF95D428F3C65E8CE6F5 /* MyApp.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyApp.modulemap; sourceTree = "<group>"; };
-		EB667DA6D503344A7368B9D3A86A0F1D /* MyApp.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MyApp.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EB667DA6D503344A7368B9D3A86A0F1D /* MyApp.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyApp.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EC46D34DF3D4D70EB3C05753 /* Pods-Pods-MyApp_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pods-MyApp_Tests.debug.xcconfig"; path = "Target Support Files/Pods-Pods-MyApp_Tests/Pods-Pods-MyApp_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F5AD8A1061328F7CB0E2B67F9DBB7FF7 /* Pods-MyApp_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyApp_Tests-Info.plist"; sourceTree = "<group>"; };
 		FA7BECA8659492F9F251DFC179AD39BF /* MyApp-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyApp-prefix.pch"; sourceTree = "<group>"; };
@@ -91,7 +91,6 @@
 				EC46D34DF3D4D70EB3C05753 /* Pods-Pods-MyApp_Tests.debug.xcconfig */,
 				5D945534392BF2267C29F65F /* Pods-Pods-MyApp_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -106,8 +105,8 @@
 		39D5B130791B9B06DDFD7662549146E4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				857C065C3DA567932EF16AE206BF0A7B /* MyApp */,
-				4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods-MyApp_Tests */,
+				857C065C3DA567932EF16AE206BF0A7B /* MyApp.framework */,
+				4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods_MyApp_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -241,7 +240,7 @@
 			);
 			name = MyApp;
 			productName = MyApp;
-			productReference = 857C065C3DA567932EF16AE206BF0A7B /* MyApp */;
+			productReference = 857C065C3DA567932EF16AE206BF0A7B /* MyApp.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		A9D157443011850D3CCC330BB69952AB /* Pods-MyApp_Tests */ = {
@@ -261,7 +260,7 @@
 			);
 			name = "Pods-MyApp_Tests";
 			productName = Pods_MyApp_Tests;
-			productReference = 4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods-MyApp_Tests */;
+			productReference = 4BEC77080AB1BB45FAFF0B611ADECDC6 /* Pods_MyApp_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -273,7 +272,7 @@
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 			};
-			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -405,7 +404,7 @@
 				INFOPLIST_FILE = "Target Support Files/MyApp/MyApp-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MODULEMAP_FILE = "Target Support Files/MyApp/MyApp.modulemap";
 				PRODUCT_MODULE_NAME = MyApp;
 				PRODUCT_NAME = MyApp;
@@ -437,7 +436,7 @@
 				INFOPLIST_FILE = "Target Support Files/MyApp/MyApp-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MODULEMAP_FILE = "Target Support Files/MyApp/MyApp.modulemap";
 				PRODUCT_MODULE_NAME = MyApp;
 				PRODUCT_NAME = MyApp;
@@ -536,7 +535,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyApp_Tests/Pods-MyApp_Tests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -605,8 +604,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -632,7 +630,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MODULEMAP_FILE = "Target Support Files/Pods-MyApp_Tests/Pods-MyApp_Tests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -667,7 +665,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7599BD86FD28576C20F8B9B6B5ACBEC9 /* Debug */,
